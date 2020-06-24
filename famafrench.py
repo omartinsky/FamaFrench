@@ -1,3 +1,6 @@
+# Copyright © 2020 Ondrej Martinsky, All rights reserved
+# http://github.com/omartinsky/FamaFrench
+
 import functools
 from typing import Dict, Any, List, Tuple
 
