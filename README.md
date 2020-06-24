@@ -15,6 +15,8 @@ Features:
 	* Investment factor (CMA)
 * Time-series analysis
 
+Few screenshots from the jupyter notebook:
+
 ## Statistical analysis of individual factors in different economic regimes
 
 ![](readme-images/factor_analysis.png)
@@ -26,3 +28,7 @@ Features:
 ## Time-series analysis of a factor on different portfolios
 
 ![](readme-images/value_factor.png)
+
+## Full intractive UI
+
+![](readme-images/full-ui.png)
