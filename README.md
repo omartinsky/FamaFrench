@@ -8,11 +8,11 @@ Features:
 * Portfolio returns and factors loaded from Fama-French data library (https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
 * Interactive return attribution
 * Explanatory analysis of return factors
-** Market factor (MER)
-** Size factor (SMB)
-** Value factor (HML)
-** Profitability factor (RMW)
-** Investment factor (CMA)
+	* Market factor (MER)
+	* Size factor (SMB)
+	* Value factor (HML)
+	* Profitability factor (RMW)
+	* Investment factor (CMA)
 * Time-series analysis
 
 ## Statistical analysis of individual factors in different economic regimes
